@@ -1,3 +1,5 @@
+# CatchMeIfYouCoin
+
 CatchMeIfYouCoin terminal blockchain application.
 
 To run the CatchMeIfYouCoin application, use your Haskell compiler of choice. If you use The Glascow Haskell Compiler, run the program with ghci interface.hs . Type main in the terminal to use the application. To add pendingtransactions exit from the main application and write miner in the terminal.
