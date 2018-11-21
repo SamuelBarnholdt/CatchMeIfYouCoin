@@ -1,0 +1,1 @@
+[Block 0 0 [VerifiedTransaction 0 [((0,0),yourgenesisamounthere,0,0,0)] [(yourpubkeyhere,yourgenesisamounthere,0,0,0)]]]
